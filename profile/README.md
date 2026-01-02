@@ -6,7 +6,7 @@ AIshift is a technology-driven company passionate about creating meaningful expe
 
 Meet the core contributors to our projects:
 
-- [@scipunch](https://github.com/scipunch) - tech lead
+- [@naqerl](https://github.com/naqerl) - tech lead
 - [@max4ak](https://github.com/max4ak) - product lead
 - [@redmoor19](https://github.com/redmoor19) - developer
 
